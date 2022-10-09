@@ -1,4 +1,17 @@
 import os
+
+carros = [
+    ("Chevrolet Tracker", 120),
+    ("Chevrolet Onix", 90),
+    ("Chevrolet Spin", 150),
+    ("Hyundai HB20", 85),
+    ("Hyundai Tucson", 120),
+    ("Fiat Uno", 60),
+    ("Fiat Mobi", 70),
+    ("Fiat Pulse", 130)
+]
+alugados = []
+
 print("===========")
 print("Bem vindo à locadora de carros!")
 print("===========")
